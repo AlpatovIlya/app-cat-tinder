@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Ilya Alpatov",
+            "photo": "https://disk.yandex.ru/i/IHOgJZFM2PW6vA",
+            "petsId": [1]
+        }
+    ],
+    "Pets": [
+        {
+            "id": 1,
+            "userId": 1,
+            "name": "Элвис",
+            "likes": 2,
+            "isLike": false,
+            "photos": [
+                "https://disk.yandex.ru/i/DsLPjyh7WatPAg",
+                "https://disk.yandex.ru/i/9_pNYtCv-_UH5A", 
+                "https://disk.yandex.ru/i/QIL399Gh2dvdLQ"]
+        }
+    ]
+}
